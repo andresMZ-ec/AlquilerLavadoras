@@ -1,6 +1,6 @@
 
 
-/*•	Conocer cuantas libras de ropa ha lavado la empresa por AÑO*/
+/*•	Conocer cuantas libras de ropa ha lavado cada lavaddora de la empresa por AÑO*/
 SELECT
       LAVADORA.LAVADORA_ID AS ID,
       LAVADORA.LAVADORA_DESCRIP AS Lavadora,
